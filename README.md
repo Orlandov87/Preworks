@@ -22,8 +22,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [X] List anything else that you can get done to improve the app functionality!
-- You're able to split the bill with different amount.
+- You're able to split the bill.
 
 ## Video Walkthrough
 
